@@ -88,18 +88,6 @@
 
 ### 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170" alt="Soumyadip's GitHub stats"/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadip&theme=radical" height="170" alt="Soumyadip's streak"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip&layout=compact&theme=radical&langs_count=10" height="170" alt="Top Languages"/>
-
 <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Soumyadip&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="170" alt="GitHub trophies"/>
 </p>
