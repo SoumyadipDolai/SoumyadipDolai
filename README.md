@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hey there, I'm Soumyadip</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />
+  Hey there, I'm Soumyadip
+</h1>
 <h3 align="center">💻 Aspiring Cybersecurity Engineer | 🎓 Student @ IITK</h3>
 
 ---
@@ -8,8 +11,14 @@
 - 🛠 Exploring **C, C++, Python, and Security Tools**  
 - 🌱 Always learning something new through **projects & research**  
 - 📂 Sharing my journey via **open-source contributions**  
-- ✨ *Joining me is a part of your life — having me is your luck.* 🍀  
+- ✨ *Joining me is a part of your life — having me is your luck.* 🍀
 
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=SOUMYADIP+DOLAI;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
+  
 ---
 
 ### 🛠️ Tech Stack & Tools  
@@ -65,6 +74,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 
 </p>
+
 ---
 
 ### 🚀 Projects & Works  
@@ -112,4 +122,6 @@
 
 ---
 
-<h3 align="center">⚡ "Every bug is an opportunity to learn. Every project is a step toward mastery." ⚡</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=36&duration=6000&pause=1500&color=00FF00&center=true&vCenter=true&width=960&lines=%E2%9A%A1+%22Every+bug+is+an+opportunity+to+learn.+Every+project+is+a+step+toward+mastery%22+%E2%9A%A1" alt="Animated quote — SOUMYADIP" />
+</p>
