@@ -80,7 +80,8 @@
 ### 🚀 Projects & Works  
 - 🔒 **Secure Login System** – C & Python-based authentication system  
 - 🧮 **Soumyadip’s Calculator** – Aesthetic web calculator with multiple themes  
-- 📊 **AI-Powered Analyzer** – Exploring data security with AI  
+- 📊 **AI-Powered Analyzer** – Exploring data security with AI
+- 🇮🇳 **YOUR-NEED-SIH-project** - full stacked APP 
 
 *(More projects coming soon…)*  
 
