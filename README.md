@@ -81,7 +81,8 @@
 - 🔒 **Secure Login System** – C & Python-based authentication system  
 - 🧮 **Soumyadip’s Calculator** – Aesthetic web calculator with multiple themes  
 - 📊 **AI-Powered Analyzer** – Exploring data security with AI
-- 🇮🇳 **YOUR-NEED-SIH-project** - full stacked APP 
+- 🇮🇳 **YOUR-NEED-SIH-project** - full stacked APP
+- 🧠 **MATRIX SOLVER** - Aesthetic matrix solver
 
 *(More projects coming soon…)*  
 
